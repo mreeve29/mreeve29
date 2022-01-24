@@ -7,7 +7,7 @@
 </div>
 
 
-#### 💚 &nbsp;My intrests:
+#### 💚 &nbsp;My interests:
 
 * Software Development
 * Technology
