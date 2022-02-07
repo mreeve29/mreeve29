@@ -14,5 +14,4 @@
 * Video Games
 * Building Computers
 * Ultimate Frisbee
-* Drinking Water
 * Nature
