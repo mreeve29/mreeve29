@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Michael!
 
 ## About Me
-👨‍🎓 &nbsp;I am a current student at The University of Maryland, College Park.
-<div align="center">
-  
-</div>
+💼 &nbsp;Teradyne
+
+
+👨‍🎓 &nbsp;University of Maryland 2024
 
 
 #### 💚 &nbsp;My interests:
